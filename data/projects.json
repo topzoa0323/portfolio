@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "projects": [],
+  "schema": {
+    "id": "unique-project-id",
+    "title": "Project title",
+    "category": "entry | vibe-coding",
+    "period": "YYYY-MM ~ YYYY-MM",
+    "description": "Short description",
+    "role": "My role",
+    "technologies": [],
+    "repository": "",
+    "demo": "",
+    "images": [],
+    "files": [],
+    "featured": false
+  }
+}
